@@ -1,0 +1,4 @@
+# Diretórios e arquivos do IntelliJ IDEA e de compilação
+.idea/
+out/
+*.iml
